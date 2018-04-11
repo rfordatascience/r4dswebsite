@@ -1,6 +1,7 @@
-baseurl = "/"
+baseurl = "https://example.org"
 title = "Universal"
 theme = "hugo-universal-theme"
+themesDir = "../.."
 languageCode = "en-us"
 # Site language. Available translations in the theme's `/i18n` directory.
 defaultContentLanguage = "en"
@@ -8,7 +9,6 @@ defaultContentLanguage = "en"
 disqusShortname = "devcows"
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
-relativeurls = true
 
 # Define the number of posts per page
 paginate = 10
@@ -71,9 +71,9 @@ paginate = 10
     defaultDescription = "Site template made by devcows using hugo"
 
     # Google Maps API key (if not set will default to not passing a key.)
-    #googleMapsApiKey = "AIzaSyCFhtWLJcE30xOAjcbSFi-0fnoVmQZPb1Y"
+    googleMapsApiKey = "AIzaSyCFhtWLJcE30xOAjcbSFi-0fnoVmQZPb1Y"
 
-    #Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
+    # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
     style = "default"
 
     # Since this template is static, the contact form uses www.formspree.io as a
