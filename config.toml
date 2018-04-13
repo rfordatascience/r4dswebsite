@@ -21,6 +21,13 @@ paginate = 10
     name = "Home"
     url  = "/"
     weight = 1
+    
+[[menu.main]]
+    name = "Get Involved!"
+    identifier = "get-involved"
+    url  = "/get-involved/"
+    weight = 2
+
 
 [[menu.main]]
     name = "Blog"
