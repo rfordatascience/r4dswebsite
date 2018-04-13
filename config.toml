@@ -109,6 +109,7 @@ paginate = 10
       """
     latitude = "-12.043333"
     longitude = "-77.028333"
+    logo = "img/r4ds-logo.png"
 
 [Permalinks]
     blog = "/blog/:year/:month/:day/:filename/"
