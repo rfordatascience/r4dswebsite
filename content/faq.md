@@ -16,7 +16,7 @@ The first round followed a curriculum that went through specific chapters each w
 
 Anyone interested in creating and participating in a supportive, welcoming space for those learning R for data science. Specific community expectations can be found in our Code of Conduct.
 
-##I don’t agree with the Code of Conduct
+## I don’t agree with the Code of Conduct
 
 Then this is probably not the group for you.
 
