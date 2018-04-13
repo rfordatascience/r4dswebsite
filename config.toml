@@ -141,6 +141,22 @@ paginate = 10
     # at 'exampleSite/data/features'.
     # For more informtion take a look at the README.
 
+[params.testimonials]
+    enable = true
+    # All testimonials are defined in their own files. You can find example items
+    # at 'exampleSite/data/testimonials'.
+    # For more informtion take a look at the README.
+    title = "Who?"
+    subtitle = "R4DS Online Community owes its success to the following folks and groups"
+
+[params.see_more]
+    enable = true
+    icon = "fa fa-file-code-o"
+    title = "Get Involved!"
+    subtitle = "Our community has weekly challenges, monthly intakes and more - come and join in"
+    link_url = "#"
+    link_text = "GET INVOLVED"
+
 [params.recent_posts]
     enable = true
     title = "From our blog"
