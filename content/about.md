@@ -78,6 +78,7 @@ We would love to have community members create content related to both R as well
 # Types of members
 
 ## Learners
+
 - You are developing your skills in R
 
 - You are developing your skills in data analysis
