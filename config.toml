@@ -42,7 +42,7 @@ paginate = 10
 
 [[menu.main]]
     name = "FAQ"
-    url  = "/contact/"
+    url  = "/faq/"
     weight = 5
     
 [[menu.main]]
