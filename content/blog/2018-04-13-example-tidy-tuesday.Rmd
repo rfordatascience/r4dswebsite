@@ -1,0 +1,14 @@
+---
+title: Example tidy tuesday
+author: Martin John Hadley
+date: '2018-04-13'
+slug: example-tidy-tuesday
+categories:
+  - weekly-thing
+tags:
+  - tidytuesday
+---
+
+The firstever tidy tuesday
+
+Tidy tuesdays are a thing, but I didn't really follow what! This 
