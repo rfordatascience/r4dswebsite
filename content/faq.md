@@ -4,40 +4,30 @@ description = "Frequently asked questions"
 keywords = ["FAQ","How do I","questions","what if"]
 +++
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+# Questions you might have:
 
-## 1. WHAT TO DO IF I HAVE STILL NOT RECEIVED THE ORDER?
+**I was in the first round, how do I sign up again?**
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+If you joined the Slack group in the first round, you’re already signed up! All you need to do is log in to the Slack group again.
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-* Vestibulum auctor dapibus neque.
+How is this different from the first round?
+The first round followed a curriculum that went through specific chapters each week. This iteration of the group will not follow a pre-established curriculum, but instead serve as an ongoing space to ask questions and share advice related to the R for Data Science text.
 
-## 2. WHAT ARE THE POSTAL RATES?
+Who can join?
+Anyone interested in creating and participating in a supportive, welcoming space for those learning R for data science. Specific community expectations can be found in our Code of Conduct.
 
-Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+I don’t agree with the Code of Conduct
+Then this is probably not the group for you.
 
-## 3. DO YOU SEND OVERSEAS?
+Where do I sign up?
+You can sign up for the group here!
 
-Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+When will invites go out?
+The initial invites will go out on December 30th, with rolling invites approximately once a week thereafter.
 
-## 4. WHY ARE YOU MORE EXPENSIVE THAN OTHERS?
+How will I receive my invite?
+Look for an email from Slack, and be sure to check your spam, check your clutter, and check your inbox.
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+We will also send out invites via Twitter DMs if needed, so please also check your Twitter inbox and Twitter requests inbox.
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-* Vestibulum auctor dapibus neque.
-
-## 5. ANOTHER IMPORTANT QUESTION
-
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
-
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-* Vestibulum auctor dapibus neque.
-
----
-
-> In case you haven't found the answer for your question please feel free to contact us, our customer support will be happy to help you.
+If you still can’t find your invite, and it’s been over a week since signing up, please reach out to Jesse on Twitter.
