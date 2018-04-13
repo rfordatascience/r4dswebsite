@@ -102,7 +102,7 @@ paginate = 10
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
 
-    logo = "img/r4ds-logo.png"
+    logo = "img/logo.png"
 
 [Permalinks]
     blog = "/blog/:year/:month/:day/:filename/"
