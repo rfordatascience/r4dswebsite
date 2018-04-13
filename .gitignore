@@ -1,2 +1,7 @@
 .Rproj.user
+.Rhistory
+.RData
+.Ruserdata
 public/
+draft-blogs/
+.httr-oauth
