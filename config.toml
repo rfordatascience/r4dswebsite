@@ -55,7 +55,7 @@ paginate = 10
 #[[menu.topbar]]
 #    weight = 1
 #    name = "GitHub"
-#    url = "https://github.com/devcows/hugo-universal-theme"
+#    url = "https://github.com/rfordatascience"
 #    pre = "<i class='fa fa-2x fa-github'></i>"
 
 #[[menu.topbar]]
@@ -67,14 +67,20 @@ paginate = 10
 #[[menu.topbar]]
 #    weight = 3
 #    name = "Twitter"
-#    url = "http://twitter.com"
+#    url = "https://twitter.com/r4dscommunity"
 #    pre = "<i class='fa fa-2x fa-twitter'></i>"
 
 #[[menu.topbar]]
 #    weight = 4
 #    name = "Email"
-#    url = "mailto:your@email.com"
+#    url = "mailto:rfordatasci@gmail.com"
 #    pre = "<i class='fa fa-2x fa-envelope'></i>"
+
+#[[menu.topbar]]
+#    weight = 5
+#    name = "Youtube"
+#    url = "https://www.youtube.com/channel/UCCaChdLMTYMxyawR_Qf-kYA"
+#    pre = "<i class='fa fa-2x fa-youtube'></i>"
 
 [params]
     viewMorePostLink = "/blog/"
