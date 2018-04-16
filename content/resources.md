@@ -3,14 +3,12 @@ title = "Resources"
 description = "Resources"
 +++
 
-# Related
+* [Blogdown Tutorial](https://bookdown.org/yihui/blogdown/)
 
-(Orphaned content from Jesse's original post)
+* [GitHub](https://github.com/rfordatascience)
 
-- [Join the “R for Data Science” online learning community](https://www.jessemaegan.com/post/join-the-r-for-data-science-online-learning-community/)
+* [Twitter](https://twitter.com/r4dscommunity)
 
-- [How to effectively teach yourself data science (with R)](https://www.jessemaegan.com/talk/ideas-dallas-data-science-2018/)
+* [YouTube](https://www.youtube.com/channel/UCCaChdLMTYMxyawR_Qf-kYA)
 
-- [Learning to Learn](https://www.jessemaegan.com/post/learning-to-learn/)
-
-- [Want to work with Data? Don’t wait.](https://www.jessemaegan.com/post/want-to-work-with-data-don-t-wait/)
+* [Contact](mailto:rfordatasci@gmail.com)
