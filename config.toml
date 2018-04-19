@@ -13,6 +13,9 @@ relativeurls = true
 # Define the number of posts per page
 paginate = 10
 
+# Set ignores
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
 [menu]
 
 # Main menu
