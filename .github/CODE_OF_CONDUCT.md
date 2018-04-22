@@ -50,6 +50,8 @@ If you experience or witness unacceptable behaviorâ€”or have any other concernsâ
 After filing a report, a representative will contact you personally, review the incident, follow up with any additional questions, and make a decision as to how to respond. If the person who is harassing you is part of the response team, they will recuse themselves from handling your incident. If the complaint originates from a member of the response team, it will be handled by a different member of the response team. We will respect confidentiality requests for the purpose of protecting victims of abuse.
 ### Attribution & Acknowledgements
 
+This Code of Conduct template is attributed to the [TODO group](http://todogroup.org/opencodeofconduct/).
+
 We all stand on the shoulders of giants across many open source communities. Weâ€™d like to thank the communities and projects that established code of conducts and diversity statements as our inspiration:
 * [Django](https://www.djangoproject.com/conduct/reporting/)
 * [Python](https://www.python.org/community/diversity/)
@@ -57,4 +59,6 @@ We all stand on the shoulders of giants across many open source communities. Weâ
 * [Contributor Covenant](https://www.contributor-covenant.org/)
 * [Geek Feminism](https://geekfeminism.org/about/code-of-conduct/)
 * [Citizen Code of Conduct](http://citizencodeofconduct.org/)
+
+
 
