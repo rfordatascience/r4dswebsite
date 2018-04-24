@@ -159,7 +159,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     icon = "fa fa-file-code-o"
     title = "Get Involved!"
     subtitle = "Our community has weekly challenges, monthly intakes and more - come and join in"
-    link_url = "#"
+    link_url = "http://www.rfordatasci.com/get-involved/"
     link_text = "GET INVOLVED"
 
 [params.recent_posts]
