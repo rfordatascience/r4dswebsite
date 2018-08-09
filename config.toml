@@ -26,16 +26,16 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     weight = 1
     
 [[menu.main]]
-    name = "Get Involved!"
+    name = "Get Involved"
     identifier = "get-involved"
     url  = "/get-involved/"
     weight = 2
 
 
-[[menu.main]]
-    name = "Blog"
-    url  = "/blog/"
-    weight = 3
+#[[menu.main]]
+#    name = "Blog"
+#    url  = "/blog/"
+#    weight = 3
 
 [[menu.main]]
     name = "About"
@@ -43,15 +43,15 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     url  = "/about/"
     weight = 4
 
-[[menu.main]]
-    name = "FAQ"
-    url  = "/faq/"
-    weight = 5
+#[[menu.main]]
+#    name = "FAQ"
+#    url  = "/faq/"
+#    weight = 5
     
-[[menu.main]]
-    name = "Resources"
-    url  = "/resources/"
-    weight = 6
+#[[menu.main]]
+#    name = "Resources"
+#    url  = "/resources/"
+#    weight = 6
 
 # Top bar social links menu
 
@@ -87,9 +87,9 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [params]
     viewMorePostLink = "/blog/"
-    author = "DevCows"
-    defaultKeywords = ["devows", "hugo", "go"]
-    defaultDescription = "R4DS Online Community is a supportive and responsive online space for learners and mentors to gather and work through the R for Data Science"
+    author = "R4DS Online Learning Community"
+    defaultKeywords = ["R", "rstats", "data science"]
+    defaultDescription = "R4DS Online Learning Community is a supportive and responsive online space for learners and mentors to gather and work through the R for Data Science"
 
     # Google Maps API key (if not set will default to not passing a key.)
     #googleMapsApiKey = "AIzaSyCFhtWLJcE30xOAjcbSFi-0fnoVmQZPb1Y"
@@ -110,15 +110,16 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     # - you're done. Happy mailing!
     #
     # Enable the contact form by entering your Formspree.io email
-    email = "your@email.com"
-
-    about_us = "<p>R4DS Online Community is a supportive and responsive online space for learners and mentors to gather and work through the R for Data Science</p>"
-    #copyright = "Copyright (c) 2015 - 2016, YourCompany; all rights reserved."
+    # email = "your@email.com"
+    
+    about_us = "<p>The R4DS Online Learning Community is a supportive and responsive online space for learners and mentors to gather and work through the <a href='http://r4ds.had.co.nz/' target = '_blank'>R for Data Science book</a> by Hadley Wickham.</p>"
+    copyright = "Copyright (c) 2018, R4DS Online Learning Community; all rights reserved."
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
 
     logo = "img/logo.png"
+    logo_small = "img/logo.png"
 
 [Permalinks]
     blog = "/blog/:year/:month/:day/:filename/"
@@ -126,7 +127,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 # Enable or disable top bar with social icons
 [params.topbar]
     enable = true
-    text = ""
+    text = "R4DS Online Learning Community"
 
 # Enable and disable widgets for the right sidebar
 [params.widgets]
@@ -147,22 +148,22 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     # For more informtion take a look at the README.
 
 [params.testimonials]
-    enable = true
+    enable = false
     # All testimonials are defined in their own files. You can find example items
     # at 'exampleSite/data/testimonials'.
     # For more informtion take a look at the README.
     title = "Who?"
-    subtitle = "R4DS Online Community owes its success to the following folks and groups"
+    subtitle = "R4DS Online Learning Community owes its success to the following folks and groups"
 
 [params.see_more]
-    enable = true
+    enable = false
     icon = "fa fa-file-code-o"
     title = "Get Involved!"
     subtitle = "Our community has weekly challenges, monthly intakes and more - come and join in"
-    link_url = "http://www.rfordatasci.com/get-involved/"
+    link_url = "#"
     link_text = "GET INVOLVED"
 
 [params.recent_posts]
-    enable = true
+    enable = false
     title = "From our blog"
     subtitle = "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo."
