@@ -5,7 +5,7 @@ description = "About"
 
 ## Background
 
-In August of 2017, Jessie Maegen ([@kierisi](https://twitter.com/kierisi)) launched an experiment, referred to as the R for Data Science Online Learning Community, with the goal of creating a supportive and responsive online space for learners and mentors to gather and work through the R for Data Science text.
+In August of 2017, Jessie Mostipak ([@kierisi](https://twitter.com/kierisi)) launched an experiment, referred to as the R for Data Science Online Learning Community, with the goal of creating a supportive and responsive online space for learners and mentors to gather and work through the R for Data Science text.
 
 The aim of this group is to move through the R for Data Science text, which walks readers through the major features of the tidyverse in the context of data science. We also aim to help useRs learn R and expand their R knowledge.
 
