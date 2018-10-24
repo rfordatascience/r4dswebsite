@@ -24,11 +24,10 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     name = "Home"
     url  = "/"
     weight = 1
-    
 [[menu.main]]
     name = "Get Involved"
     identifier = "get-involved"
-    url  = "/get-involved/"
+    url  = "https://join.slack.com/t/rfordatascience/shared_invite/enQtMzA1Nzk1MjIzNDczLTY0OTVlMzM3ZTU5ZjA3NWE5ZDkxOGVmNjRjODQ2YmRjMzg4NWQxMDAxZTcwNzViZTczOThiNzBhYWJhZDM2ZTU"
     weight = 2
 
 
@@ -47,7 +46,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 #    name = "FAQ"
 #    url  = "/faq/"
 #    weight = 5
-    
+
 #[[menu.main]]
 #    name = "Resources"
 #    url  = "/resources/"
@@ -111,7 +110,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     #
     # Enable the contact form by entering your Formspree.io email
     # email = "your@email.com"
-    
+
     about_us = "<p>The R4DS Online Learning Community is a supportive and responsive online space for learners and mentors to gather and work through the <a href='http://r4ds.had.co.nz/' target = '_blank'>R for Data Science book</a> by Hadley Wickham.</p>"
     copyright = "Copyright (c) 2018, R4DS Online Learning Community; all rights reserved."
 
