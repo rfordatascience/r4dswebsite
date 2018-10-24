@@ -24,7 +24,6 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     name = "Home"
     url  = "/"
     weight = 1
-
 [[menu.main]]
     name = "Get Involved"
     identifier = "get-involved"
