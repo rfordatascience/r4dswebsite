@@ -108,11 +108,11 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     # - click the confirm link in the email from www.formspree.io
     # - you're done. Happy mailing!
     #
-    # Enable the contact form by entering your Formspree.io email
+    # Enable the contact form by entering your Formspree.io email
     # email = "your@email.com"
 
-    about_us = "<p>The R4DS Online Learning Community is a supportive and responsive online space for learners and mentors to gather and work through the <a href='http://r4ds.had.co.nz/' target = '_blank'>R for Data Science book</a> by Hadley Wickham.</p>"
-    copyright = "Copyright (c) 2018, R4DS Online Learning Community; all rights reserved."
+    about_us = "<p>The R4DS Online Learning Communit is a community of R learners at all skill levels working together to improve their skills.</p>"
+    copyright = "Copyright (c) 2018-2019, R4DS Online Learning Community; all rights reserved."
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
