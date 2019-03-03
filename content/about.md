@@ -5,9 +5,9 @@ description = "About"
 
 ## Background
 
-In August of 2017, Jessie Mostipak ([@kierisi](https://twitter.com/kierisi)) launched an experiment, referred to as the R for Data Science Online Learning Community, with the goal of creating a supportive and responsive online space for learners and mentors to gather and work through the R for Data Science text.
+In August of 2017, Jessie Mostipak ([@kierisi](https://twitter.com/kierisi)) launched an experiment, referred to as the R for Data Science Online Learning Community, with the goal of creating a supportive and responsive online space for learners and mentors to gather and work through the <a href='http://r4ds.had.co.nz/' target = '_blank'><i>R for Data Science</i></a> book by Garrett Grolemund and Hadley Wickham.
 
-The aim of this group is to move through the R for Data Science text, which walks readers through the major features of the tidyverse in the context of data science. We also aim to help useRs learn R and expand their R knowledge.
+The aim of the group has since expanded. While we still highly recommend reading R for Data Science, we have grown into a community of R learners at all skill levels working together to improve their skills.
 
 ## Types of members
 
