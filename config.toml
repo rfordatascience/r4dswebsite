@@ -27,7 +27,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [[menu.main]]
     name = "Get Involved"
     identifier = "get-involved"
-    url  = "https://join.slack.com/t/rfordatascience/shared_invite/enQtMzA1Nzk1MjIzNDczLTY0OTVlMzM3ZTU5ZjA3NWE5ZDkxOGVmNjRjODQ2YmRjMzg4NWQxMDAxZTcwNzViZTczOThiNzBhYWJhZDM2ZTU"
+    url  = "https://join.slack.com/t/rfordatascience/shared_invite/enQtMzA1Nzk1MjIzNDczLTMxOGI2MDMwNTFlZTIwNjQ3NzI3OGY5NWNjZWFmY2YwYzNkYTMyZjQ1NGEyZGMwZTQ5NmY1ZTNkZTMxZTM4MDU"
     weight = 2
 
 
