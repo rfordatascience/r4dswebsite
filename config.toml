@@ -27,7 +27,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [[menu.main]]
     name = "Slack"
     identifier = "get-involved"
-    url  = "https://join.slack.com/t/rfordatascience/shared_invite/enQtODExNzUwOTk2MTgyLTBjMmU4MWNmZTdkNzJmNjcwZGMwODIzYjQxZGQ4YjE0NWE2N2NlMGVkMjljYmRlNGRhODliYzg4OTA2ODY3Y2U"
+    url  = "http://r4ds.io/join"
     weight = 2
 
 
@@ -111,7 +111,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     # Enable the contact form by entering your Formspree.io email
     # email = "your@email.com"
 
-    about_us = "<p>The R4DS Online Learning Communit is a community of R learners at all skill levels working together to improve their skills.</p>"
+    about_us = "<p>The R4DS Online Learning Community is a community of R learners at all skill levels working together to improve their skills.</p>"
     copyright = "Copyright (c) 2018-2019, R4DS Online Learning Community; all rights reserved."
 
     # Format dates with Go's time formatting
