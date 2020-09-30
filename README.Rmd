@@ -8,9 +8,9 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # R for Data Science Online Community Website
 
-What is the R4DS online community?
+What is the R4DS online network?
 
-What do we aim to teach?
+What do we expect to instruct?
 
 ## Built With
 
