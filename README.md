@@ -1,5 +1,5 @@
 
-R for Data Science Online Community Website
+R for Data Science Online Community An Amazing Website
 ===========================================
 
 What is the R4DS online community?
