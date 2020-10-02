@@ -40,3 +40,5 @@ Additional
 ----------
 
 Please see the [wiki](https://github.com/rfordatascience/website/wiki) for more information on contributing.
+
+its a amazing project
