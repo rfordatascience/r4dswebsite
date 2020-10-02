@@ -6,7 +6,7 @@ output: github_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-# R for Data Science Online Community Website
+# Amazing Data Science Online Community Website
 
 What is the R4DS online community?
 
