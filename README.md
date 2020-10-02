@@ -1,12 +1,12 @@
 
-R for Data Science Online Community Website
+Read for Data Science Online Community Website
 ===========================================
 
 What is the R4DS online community?
 
 What do we aim to teach?
 
-Built With
+Built With experet
 ----------
 
 -   Hugo 0.38.2
