@@ -16,7 +16,7 @@ Built With
 Contributing
 ------------
 
-Please read [CONTRIBUTING.md](https://github.com/rfordatascience/website/blob/master/.github/contributing.md) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](https://github.com/rfordatascience/website/blob/master/.github/contributing.md) for details about our code , and the process for submitting pull requests to us.
 
 Authors
 -------
