@@ -48,6 +48,18 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     url  = "/conduct/"
     weight = 5
 
+[[menu.main]]
+    name = "Privacy Policy"
+    identifier = "privacy"
+    url  = "/privacy/"
+    weight = 6
+
+[[menu.main]]
+    name = "License"
+    identifier = "license"
+    url  = "/license/"
+    weight = 7
+
 #[[menu.main]]
 #    name = "FAQ"
 #    url  = "/faq/"
