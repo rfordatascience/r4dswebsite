@@ -20,11 +20,11 @@ What do we aim to teach?
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://github.com/rfordatascience/website/blob/master/.github/contributing.md) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](https://github.com/rfordatascience/r4dswebsite/blob/master/.github/contributing.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Authors
 
-See the list of [contributors](https://github.com/rfordatascience/website/contributors) who participated in this project/
+See the list of [contributors](https://github.com/rfordatascience/r4dswebsite/contributors) who participated in this project/
 
 ## License
 
@@ -38,5 +38,5 @@ Pull requests shall be submitted with the target branch `develop`.
 
 ## Additional
 
-Please see the [wiki](https://github.com/rfordatascience/website/wiki) for more information on contributing.
+Please see the [wiki](https://github.com/rfordatascience/r4dswebsite/wiki) for more information on contributing.
 
