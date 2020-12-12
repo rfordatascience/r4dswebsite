@@ -42,6 +42,12 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     url  = "/about/"
     weight = 4
 
+[[menu.main]]
+    name = "Code of Conduct"
+    identifier = "conduct"
+    url  = "/conduct/"
+    weight = 5
+
 #[[menu.main]]
 #    name = "FAQ"
 #    url  = "/faq/"
@@ -112,7 +118,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     # email = "your@email.com"
 
     about_us = "<p>The R4DS Online Learning Community is a community of R learners at all skill levels working together to improve their skills.</p>"
-    copyright = "Copyright (c) 2018-2019, R4DS Online Learning Community; all rights reserved."
+    copyright = "Copyright (c) 2018-2020, R4DS Online Learning Community; all rights reserved."
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
