@@ -5,7 +5,7 @@ description = "Code of Conduct"
 
 ## Our Pledge
 
-In the interest of fostering an open and welcoming environment, we as learners, mentors, and administrators pledge to making participation in our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation.
+In the interest of fostering an open and welcoming environment, we as learners, mentors, and administrators pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
 ## Our Standards
 
